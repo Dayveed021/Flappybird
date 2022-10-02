@@ -1,0 +1,1 @@
+This game is called flappybird and it was developed using using HTML, CSS and JavaScript. The concept of the game is simple, you just have to navigate a bird through holes. If you miss the hole you loose. It is an endless runner game.
